@@ -1,0 +1,36 @@
+C:\Users\Xavie\OneDrive\Documents\level two folder\New RPSLSP -project\bin\Release\net9.0\appsettings.Development.json
+C:\Users\Xavie\OneDrive\Documents\level two folder\New RPSLSP -project\bin\Release\net9.0\appsettings.json
+C:\Users\Xavie\OneDrive\Documents\level two folder\New RPSLSP -project\bin\Release\net9.0\New RPSLSP -project.staticwebassets.endpoints.json
+C:\Users\Xavie\OneDrive\Documents\level two folder\New RPSLSP -project\bin\Release\net9.0\New RPSLSP -project.exe
+C:\Users\Xavie\OneDrive\Documents\level two folder\New RPSLSP -project\bin\Release\net9.0\New RPSLSP -project.deps.json
+C:\Users\Xavie\OneDrive\Documents\level two folder\New RPSLSP -project\bin\Release\net9.0\New RPSLSP -project.runtimeconfig.json
+C:\Users\Xavie\OneDrive\Documents\level two folder\New RPSLSP -project\bin\Release\net9.0\New RPSLSP -project.dll
+C:\Users\Xavie\OneDrive\Documents\level two folder\New RPSLSP -project\bin\Release\net9.0\New RPSLSP -project.pdb
+C:\Users\Xavie\OneDrive\Documents\level two folder\New RPSLSP -project\bin\Release\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Xavie\OneDrive\Documents\level two folder\New RPSLSP -project\bin\Release\net9.0\Microsoft.OpenApi.dll
+C:\Users\Xavie\OneDrive\Documents\level two folder\New RPSLSP -project\bin\Release\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Xavie\OneDrive\Documents\level two folder\New RPSLSP -project\bin\Release\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Xavie\OneDrive\Documents\level two folder\New RPSLSP -project\bin\Release\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Xavie\OneDrive\Documents\level two folder\New RPSLSP -project\obj\Release\net9.0\New RPSLSP -project.csproj.AssemblyReference.cache
+C:\Users\Xavie\OneDrive\Documents\level two folder\New RPSLSP -project\obj\Release\net9.0\rpswa.dswa.cache.json
+C:\Users\Xavie\OneDrive\Documents\level two folder\New RPSLSP -project\obj\Release\net9.0\New RPSLSP -project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Xavie\OneDrive\Documents\level two folder\New RPSLSP -project\obj\Release\net9.0\New RPSLSP -project.AssemblyInfoInputs.cache
+C:\Users\Xavie\OneDrive\Documents\level two folder\New RPSLSP -project\obj\Release\net9.0\New RPSLSP -project.AssemblyInfo.cs
+C:\Users\Xavie\OneDrive\Documents\level two folder\New RPSLSP -project\obj\Release\net9.0\New RPSLSP -project.csproj.CoreCompileInputs.cache
+C:\Users\Xavie\OneDrive\Documents\level two folder\New RPSLSP -project\obj\Release\net9.0\New RPSLSP -project.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Xavie\OneDrive\Documents\level two folder\New RPSLSP -project\obj\Release\net9.0\New RPSLSP -project.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Xavie\OneDrive\Documents\level two folder\New RPSLSP -project\obj\Release\net9.0\New RPSLSP -project.sourcelink.json
+C:\Users\Xavie\OneDrive\Documents\level two folder\New RPSLSP -project\obj\Release\net9.0\rjimswa.dswa.cache.json
+C:\Users\Xavie\OneDrive\Documents\level two folder\New RPSLSP -project\obj\Release\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\Xavie\OneDrive\Documents\level two folder\New RPSLSP -project\obj\Release\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\Xavie\OneDrive\Documents\level two folder\New RPSLSP -project\obj\Release\net9.0\scopedcss\bundle\New RPSLSP -project.styles.css
+C:\Users\Xavie\OneDrive\Documents\level two folder\New RPSLSP -project\obj\Release\net9.0\staticwebassets.build.json
+C:\Users\Xavie\OneDrive\Documents\level two folder\New RPSLSP -project\obj\Release\net9.0\staticwebassets.build.json.cache
+C:\Users\Xavie\OneDrive\Documents\level two folder\New RPSLSP -project\obj\Release\net9.0\staticwebassets.development.json
+C:\Users\Xavie\OneDrive\Documents\level two folder\New RPSLSP -project\obj\Release\net9.0\staticwebassets.build.endpoints.json
+C:\Users\Xavie\OneDrive\Documents\level two folder\New RPSLSP -project\obj\Release\net9.0\New RPSL.D49FFE06.Up2Date
+C:\Users\Xavie\OneDrive\Documents\level two folder\New RPSLSP -project\obj\Release\net9.0\New RPSLSP -project.dll
+C:\Users\Xavie\OneDrive\Documents\level two folder\New RPSLSP -project\obj\Release\net9.0\refint\New RPSLSP -project.dll
+C:\Users\Xavie\OneDrive\Documents\level two folder\New RPSLSP -project\obj\Release\net9.0\New RPSLSP -project.pdb
+C:\Users\Xavie\OneDrive\Documents\level two folder\New RPSLSP -project\obj\Release\net9.0\New RPSLSP -project.genruntimeconfig.cache
+C:\Users\Xavie\OneDrive\Documents\level two folder\New RPSLSP -project\obj\Release\net9.0\ref\New RPSLSP -project.dll

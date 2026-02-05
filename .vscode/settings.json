@@ -1,1 +1,5 @@
-{}
+{
+    "appService.preDeployTask": "publish-release",
+    "appService.deploySubpath": "bin\\Release\\net9.0\\publish",
+    "appService.defaultWebAppToDeploy": "/subscriptions/a10518e8-3d8d-4722-b4db-fe15c71bb51b/resourceGroups/Mytimeisknowxj24/providers/Microsoft.Web/sites/RPSLSpjxj26"
+}
