@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("New RPSLSP -project")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5208ff2a2e8967fc26a50942514d3a4755526b9d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+80636f8188c206590410518a5f25e9a4336c7ee5")]
 [assembly: System.Reflection.AssemblyProductAttribute("New RPSLSP -project")]
 [assembly: System.Reflection.AssemblyTitleAttribute("New RPSLSP -project")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

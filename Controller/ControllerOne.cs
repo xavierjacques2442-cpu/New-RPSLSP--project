@@ -5,7 +5,7 @@ using New_RPSLSP__project.Service;
 namespace New_RPSLSP__project.Controller
 {
     [ApiController]
-    [Route("api/game")]
+    [Route("api/[game]")]
     public class ControllerOne : ControllerBase
     {
         private readonly ServiceOne serviceOne;
